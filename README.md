@@ -5,8 +5,12 @@
 </div>
 
 # 👨🏻‍💻 About me
-> Igor Sousa Venda, 24 years old, Angolan residing in Luanda. Since an early age, I have been passionate about computers, but I spent over 70% of my life away from them, until in 2021 I decided to follow my dreams and migrate definitively to the field of technology. I am currently in my final year at the University of Management Informatics.I work as an information and communication systems auditor for the multinational group SANEP.
-
+> - 🎓 Student of Financial Management Informatics (Academia BAI – Luanda, Angola)  
+> - 💼 Internal IT Auditor at **Grupo SANEP** (Multinational Company)  
+> - 💡 Goal: Grow in the IT and financial sector, aiming for opportunities in **Software Development & Technology applied to Business**  
+> - 🤝 Polite, detail-oriented, and passionate about connecting with people and sharing knowledge  
+> - 📚 Experience as a volunteer in several companies and projects 
+> - 🔍 Interests: Technology, Finance4
 
 # Habilidades
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
