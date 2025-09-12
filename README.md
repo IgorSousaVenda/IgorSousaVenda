@@ -5,7 +5,7 @@
 </div>
 
 # 👨🏻‍💻 About me
-> Igor Sousa Venda, 24 anos, Angolano residente em Luanda. Desde cedo fui apaixonado por computadores, mas passei mais de 70% da minha vida longe, até que em 2021 decidi seguir meus sonhos e migrar definitivamente para a área da tecnológia, atualmente estou no 3ºAno da Universidade de Informática de Gestão.
+> Igor Sousa Venda, 24 years old, Angolan residing in Luanda. Since an early age, I have been passionate about computers, but I spent over 70% of my life away from them, until in 2021 I decided to follow my dreams and migrate definitively to the field of technology. I am currently in my final year at the University of Management Informatics.I work as an information and communication systems auditor for the multinational group SANEP.
 
 
 # Habilidades
